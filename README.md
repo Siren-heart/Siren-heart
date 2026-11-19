@@ -1,4 +1,4 @@
-## Hi, I'm Kanat 👋
+## Hi, I'm Kanat Mukhammedkanafiya👋
 
 Student of **Data Science and Business Analytics** at the University of London, interested in data analytics and data engineering.
 
